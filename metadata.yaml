@@ -1,9 +1,13 @@
 _repo: Grettir-the-Outlaw-A-Story-of-Iceland_48622
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Diemer, M. Zeno
     gutenberg_agent_id: '44885'
     url: http://www.gutenberg.org/2009/agents/44885
+covers:
+- cover_type: archival
+  image_path: 48622-rst/images/img-cover.jpg
 creator:
   author:
     agent_name: Baring-Gould, S. (Sabine)
@@ -16,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1766
     wikipedia: http://en.wikipedia.org/wiki/Sabine_Baring-Gould
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48622#Grettir-the-Outlaw-A-Story-of-Iceland
 gutenberg_issued: '2015-03-31'
 gutenberg_type: Text
 identifiers:
